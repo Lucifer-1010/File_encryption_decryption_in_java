@@ -1,0 +1,16 @@
+[2021-02-10T12:39:01.565] Initialize Session
+[2021-02-10T12:39:26.872] Encrypt: fff.txt
+[2021-02-10T12:39:37.201] Decrypt: fff.enc.txt
+[2021-02-10T12:42:23.766] Close Session
+[2021-02-10T12:52:48.303] Initialize Session
+[2021-02-10T12:52:51.011] Close Session
+[2021-02-10T12:53:48.212] Initialize Session
+[2021-02-10T12:54:10.677] Close Session
+[2021-02-10T12:55:45.510] Initialize Session
+[2021-02-10T12:55:48.204] Close Session
+[2021-02-10T12:58:15.978] Initialize Session
+[2021-02-10T12:58:22.018] Close Session
+[2021-02-12T14:32:49.695] Initialize Session
+[2021-02-12T14:32:54.428] Close Session
+[2021-02-18T09:15:38.749] Initialize Session
+[2021-02-18T09:16:20.514] Close Session
